@@ -5,3 +5,4 @@ else:
     print "Home"
     print "Go to your profile"
     print "Back to login?"
+    print "Complete"
