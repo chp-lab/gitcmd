@@ -3,5 +3,6 @@ if(age < 18):
     print "Access denined!"
     print "This page contain 18+ story"
     print "back to login page ?"
+    print "close"
 else:
     print "Home"
